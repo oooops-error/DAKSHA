@@ -1,27 +1,4 @@
 
-# Student Progress Analyzer
-
-Click to view 👇
-
-
-
-The Student Progress Analyzer System is a project that aims to predict the academic performance of students based on their marks and defaulter status. The system provides insights to the teacher on which students are slow, average or good performers so that they can focus on providing more attention and support to the students who need it the most.
-
-
-## Features
-
-- Predicts the performance of a student based on their marks
-- Provides insights on which students are slow, average, or good performers
-- Assists in creating personalized learning plans for students
-- Improves the quality of education by providing valuable insights to teachers
-
-
-## How it works
-
-- The system uses SVM(support vector machine) algorithm to predict the academic performance of students. 
-- We are working with a real time data set of past 3 years student provided by the college to work on our innovative idea.
-- We have also implemented some feature engineering and statistical engineering techniques to make our model more reliable and accurate
-* Model Preview: [SPA_model](./Model/SPA_model.ipynb)
 
 
 
